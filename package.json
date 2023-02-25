@@ -1,0 +1,23 @@
+{
+  "name": "aulagit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleypbk/aulagit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleypbk/aulagit/issues"
+  },
+  "homepage": "https://github.com/wesleypbk/aulagit#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
